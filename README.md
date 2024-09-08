@@ -1,4 +1,4 @@
-# Recipe Complexity and Ratings Analysis
+<img width="629" alt="Screenshot 2024-09-07 at 11 39 20 PM" src="https://github.com/user-attachments/assets/21f6098f-3ad8-464d-ad4b-8a24498c8878"># Recipe Complexity and Ratings Analysis
 #### Name(s): Tan Bao Tin Nguyen
 
 ## Introduction
@@ -27,3 +27,9 @@
 
 ## Data Cleaning and Exploratory Data Analysis
 ### Univariate Analysis
+<img width="629" alt="Screenshot 2024-09-07 at 11 39 20 PM" src="https://github.com/user-attachments/assets/2f60ccb0-580b-483a-86e5-cd0d55f92db7">
+<img width="545" alt="Screenshot 2024-09-07 at 11 40 01 PM" src="https://github.com/user-attachments/assets/51fbcd69-f320-405d-81ae-530e61ce1b59">
+<img width="542" alt="Screenshot 2024-09-07 at 11 40 09 PM" src="https://github.com/user-attachments/assets/3e254db9-d4d6-444c-a970-261bfa5dabce">
+<img width="544" alt="Screenshot 2024-09-07 at 11 40 18 PM" src="https://github.com/user-attachments/assets/6e88698e-edfa-4eb2-b660-ee2cdeb448be">
+<img width="534" alt="Screenshot 2024-09-07 at 11 40 39 PM" src="https://github.com/user-attachments/assets/1b89afed-0433-462c-96d7-d569e2027d52">
+
