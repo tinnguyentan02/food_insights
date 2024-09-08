@@ -26,3 +26,4 @@
 #### The RAW_recipes.csv dataset contains 83782 rows, each representing a unique recipe.
 
 ## Data Cleaning and Exploratory Data Analysis
+### Univariate Analysis
